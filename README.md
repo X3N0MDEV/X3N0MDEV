@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou X3N0MDEV 👋
 
-<!--
-**X3N0MDEV/X3N0MDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, com foco em desenvolvimento front-end e na criação de interfaces web.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+
+## Projetos em destaque
+
+- **[Site](https://github.com/X3N0MDEV/Site)** — projeto front-end com HTML e CSS.
+- **[SampaioStore](https://github.com/X3N0MDEV/SampaioStore)** — interface de loja.
+- **[bot](https://github.com/X3N0MDEV/bot)** — projeto em JavaScript.
+
+## Objetivo
+
+Evoluir continuamente como desenvolvedor, criando projetos práticos e bem organizados.
